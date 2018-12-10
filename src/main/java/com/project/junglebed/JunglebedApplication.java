@@ -9,4 +9,5 @@ public class JunglebedApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(JunglebedApplication.class, args);
 	}
+
 }
